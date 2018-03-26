@@ -1,6 +1,6 @@
 ---
-ref: vote-slack
-name : vote-slack
+ref: vote_slack
+name : vote_slack
 description : st2 content pack containing slack integrations
 keywords:
   - slack
